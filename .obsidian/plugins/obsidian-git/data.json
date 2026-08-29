@@ -3,7 +3,7 @@
   "commitMessageOnManualCommit": "vault backup: {{date}}",
   "autoCommit": true,
   "autoCommitInterval": 15,
-  "autoPush": false,
+  "autoPush": true,
   "autoPushInterval": 15,
   "autoPull": false,
   "autoPullInterval": 15,
