@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "99-Archive/attachments",
+  "communityPluginsEnabled": true,
+  "defaultViewMode": "preview",
+  "editorFontSize": 16,
+  "fileExtension": "md",
+  "foldHeading": true,
+  "foldIndent": true,
+  "livePreview": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00-Inbox",
+  "spellcheck": false,
+  "strictLineBreaks": false,
+  "promptDelete": false
+}
